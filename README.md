@@ -1,13 +1,26 @@
-##
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0dbn&label=Profile%20views&color=0e75b6&style=flat" alt="0dbn" /> </p>
 
 
-<div align="center">
-  <a href="https://github.com/0dbn">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=0dbn&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dbn&theme=highcontrast"/>
-</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0dbn&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0dbn&theme=solarized_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0dbn&theme=solarized_dark" />
+</p>
+
+##
+
+
+
+<p href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0dbn&theme=nord&margin-w=5&row=1&column=5&no-frame=true&title=Commits,PR,Repositories,Stars,Followers" />
+</p>
+
+
 
 ##
   
