@@ -16,11 +16,6 @@
 
 
 
-<p href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0dbn&theme=nord&margin-w=5&row=1&column=5&no-frame=true&title=Commits,PR,Repositories,Stars,Followers" />
-</p>
-
-
 
 ##
   
