@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbener0&label=Profile%20views&color=0e75b6&style=flat" alt="0dbn" /> </p>
 
-
+##
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidbener0&theme=solarized_dark" />
@@ -17,7 +17,7 @@
 
 
 
-##
+
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
